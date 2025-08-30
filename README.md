@@ -69,16 +69,38 @@
 ## 🌐 Connect With Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/harsh-singh-7813322488">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:haharshsingh57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/singhharsh77">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.credly.com/users/harsh-singh.7fa52a4d">
+    <img src="https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements">
+    <img src="https://img.shields.io/badge/Microsoft-Learn-0078D4?style=for-the-badge&logo=microsoft"/>
+  </a>
+  <a href="https://terminal-singh-harsh-com.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Terminal--Style-green?style=for-the-badge&logo=linux"/>
+  </a>
 </div>
+
+---
+
+### 📞 Contact Info  
+
+- 📱 **Phone**: +91 77429 85867  
+- 📧 **Email**: [haharshsingh57@gmail.com](mailto:haharshsingh57@gmail.com)  
+- 🌐 **Portfolio**: [terminal-singh-harsh-com.vercel.app](https://terminal-singh-harsh-com.vercel.app/)  
+- 💼 **LinkedIn**: [linkedin.com/in/harsh-singh-7813322488](https://www.linkedin.com/in/harsh-singh-7813322488)  
+- 🏅 **Credly**: [credly.com/users/harsh-singh.7fa52a4d](https://www.credly.com/users/harsh-singh.7fa52a4d)  
+- 📚 **Microsoft Learn Achievements**: [View Badges](https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements)  
+- 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)  
+
 
 ---
 
