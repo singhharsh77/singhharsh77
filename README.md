@@ -39,17 +39,20 @@
 
 ## 🔨 Projects & Hands-On  
 
-- 📦 **Kali Linux NAS Server** – File sharing using **Samba**, secure access, authentication logs, and user-based permissions.  
-- 🐍 **AMUL_CronJob** – Python automation with GitHub Actions to check milk stock & notify via Gmail. [🔗 Repo](https://github.com/singhharsh77/AMUL_CronJob)  
-- 🎯 **DevSecOps Honeypot (Cowrie SSH)** – Raspberry Pi honeypot to capture attacker behavior & integrate SIEM monitoring.  
-- 📅 **College SaaS App Prototype** – Timetable management app integrating Google Calendar for students.  
-- 🎓 **Phishing Attack Workshop** – Organized & trained peers on **phishing tactics & defenses**.  
+| Project Name | Description | Status | Links |
+|--------------|-------------|--------|-------|
+| **Kali Linux NAS Server** | File sharing using **Samba**, secure access, authentication logs, and user-based permissions. | ✅ Completed | [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_nas-cybersecurity-samba-activity-7291098275770732545-kVLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) · [GitHub](https://github.com/singhharsh77/NAS_Server) |
+| **AMUL_CronJob** | Python automation with GitHub Actions to check AMUL milk stock & notify via Gmail. | ✅ Completed | [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_githubactions-automation-python-activity-7365087413867642880-agTm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) · [GitHub](https://github.com/singhharsh77/AMUL_CronJob) |
+| **DevSecOps Honeypot (Cowrie SSH)** | Raspberry Pi honeypot to capture attacker behavior & integrate SIEM monitoring. | ✅ Completed | [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_cybersecurity-devsecops-honeypot-activity-7303419778797293568--XQm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) · [GitHub](https://github.com/singhharsh77/Honeypot) |
+| **College SaaS App Prototype** | Timetable management app integrating Google Calendar for students. | 🛠 Ideation Phase | — |
+| **Phishing Attack Workshop** | Conducted a **hands-on phishing workshop** to spread awareness & train peers on attack vectors and defenses. | ✅ Completed | [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_phishingattacks-cybersecurityawareness-handsontraining-activity-7164324770501550083-8oto?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) |
+| **Kali Linux Style Portfolio** | A **terminal-themed portfolio website** built with React.js, deployed on Vercel. | 🌐 Live | [Live Portfolio](https://terminal-singh-harsh-com.vercel.app/) · [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_terminalportfolio-reactjs-cybersecurity-activity-7353489087078543360-3YX4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) |
 
 ---
 
 ## ⚙️ Tech Stack  
 
-- **Languages**: Python · Java · C++ · Swift  
+- **Languages**: Python · Java · Swift  
 - **Cyber Security Tools**: Kali Linux · Wireshark · Metasploit · Burp Suite · Nmap  
 - **Cloud & Infra**: AWS (VPC, Subnets, SG, NACLs, ELB) · Docker · GitHub Actions · Raspberry Pi  
 - **Web/Dev**: React.js · Node.js · FastAPI · HTML/CSS/JS  
