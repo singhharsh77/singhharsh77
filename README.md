@@ -29,8 +29,9 @@
 
 | Issuer / Organization | Certificate Name | Description | Skills Gained | Certificate Link |
 |------------------------|------------------|-------------|---------------|------------------|
+| **AWS Academy** | AWS Academy Cloud Security Foundations | Learned AWS cloud security fundamentals | AWS Security, Cloud IAM | [View](https://www.credly.com/badges/1f9db9db-418f-41c7-8a0c-19c6675a81f7/linked_in?t=sysf9h) |
 | **Microsoft** | SC-900 (Security, Compliance, and Identity Fundamentals) | Scored **859**, covering fundamentals of security, compliance, and identity | Identity & Access Management, Compliance, Security Principles | [View](https://www.credly.com/badges/d48c775a-da7b-4156-9558-64614efbcf85/linked_in?t=s78vtb) |
-| **Microsoft** | App Development with Swift Level 1 | Demonstrated foundational app development skills in Swift | Swift, iOS Development, Problem Solving | [View](https://www.credly.com/badges/2e24655f-1e75-4865-91db-f6d9ca3ec214/linked_in?t=s7bas1) |
+| **APPLE** | App Development with Swift Level 1 | Demonstrated foundational app development skills in Swift | Swift, iOS Development, Problem Solving | [View](https://www.credly.com/badges/2e24655f-1e75-4865-91db-f6d9ca3ec214/linked_in?t=s7bas1) |
 | **Cisco** | Ethical Hacker | Hands-on ethical hacking techniques with Kali Linux & tools | Penetration Testing, Exploitation, Reconnaissance | [View](https://www.credly.com/badges/dd5eed87-8d20-433e-879f-f970c44a0963/linked_in?t=svp50k) |
 | **Cisco** | Operating Systems Basics | Core understanding of operating systems & security implications | OS Fundamentals, System Security | [View](https://www.credly.com/badges/8816d923-7b80-4d9c-a599-de05eb306104/linked_in?t=sfnkrl) |
 | **Cisco** | Introduction to Cybersecurity | Covered the basics of cybersecurity concepts and practices | Cybersecurity Awareness, Networking Security | [View](https://www.credly.com/badges/ff96b579-0622-456f-a4c1-31afdaabb6cf/linked_in?t=scaq8l) |
@@ -45,7 +46,6 @@
 | **Coursera** | Ethical Hacking Essentials (EHE) | Fundamental concepts of ethical hacking | Penetration Testing, Cybersecurity | [View](https://coursera.org/share/ce49fc0646bc0d209521499aaa911a15) |
 | **HackerRank** | Python (Basic) Certificate | Problem solving using Python | Python, Problem Solving | [View](https://www.hackerrank.com/certificates/e76a24385298?hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=certificate_social_share&social=linkedin) |
 | **OPSWAT Academy** | Introduction to Critical Infrastructure Protection | Learned security of critical infrastructure | ICS/SCADA Security, Risk Management | [View](https://learn.opswatacademy.com/certificate/wHAM4MAhRw) |
-| **AWS Academy** | AWS Academy Cloud Security Foundations | Learned AWS cloud security fundamentals | AWS Security, Cloud IAM | [View](https://www.credly.com/badges/1f9db9db-418f-41c7-8a0c-19c6675a81f7/linked_in?t=sysf9h) |
 | **TCS (Forage)** | Cybersecurity Analyst Virtual Job Simulation | Simulated IAM, incident response, and consulting tasks | IAM, Cybersecurity Consulting | [View](https://www.linkedin.com/posts/harsh-singh-781332248_forage-certificate-activity-7213976548809351168-7HPP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw) |
 
 
