@@ -116,7 +116,8 @@
 - 🏅 **Credly**: [credly.com/users/harsh-singh.7fa52a4d](https://www.credly.com/users/harsh-singh.7fa52a4d)  
 - 📚 **Microsoft Learn Achievements**: [View Badges](https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements)  
 - 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)
-- 📟 **TryHackMe**: [(https://tryhackme-badges.s3.amazonaws.com/haharshsingh57.png)](https://tryhackme.com/p/haharshsingh57)
+- 📟 **TryHackMe**: [[TryHackMe Badge](https://tryhackme.com/p/haharshsingh57)](https://tryhackme.com/p/haharshsingh57)
+
 
 
 
