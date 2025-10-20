@@ -103,6 +103,8 @@
   <a href="https://terminal-singh-harsh-com.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Terminal--Style-green?style=for-the-badge&logo=linux"/>
   </a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2160961" style='border:none;'></iframe>
+
 </div>
 
 ---
