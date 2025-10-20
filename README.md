@@ -103,11 +103,6 @@
   <a href="https://terminal-singh-harsh-com.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Terminal--Style-green?style=for-the-badge&logo=linux"/>
   </a>
-  <br>
-<a href="https://tryhackme.com/p/haharshsingh57">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/haharshsingh57.png" alt="TryHackMe Badge" />
-</a>
-
 </div>
 
 ---
@@ -120,7 +115,9 @@
 - 💼 **LinkedIn**: [linkedin.com/in/harsh-singh-7813322488](https://www.linkedin.com/in/harsh-singh-7813322488)  
 - 🏅 **Credly**: [credly.com/users/harsh-singh.7fa52a4d](https://www.credly.com/users/harsh-singh.7fa52a4d)  
 - 📚 **Microsoft Learn Achievements**: [View Badges](https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements)  
-- 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)  
+- 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)
+- 📟 **TryHackMe**: [(https://tryhackme-badges.s3.amazonaws.com/haharshsingh57.png)](https://tryhackme.com/p/haharshsingh57)
+
 
 
 ---
