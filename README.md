@@ -109,14 +109,16 @@
 
 ### 📞 Contact Info  
 
-- 📱 **Phone**: +91 77429 85867  
+- 📱 **Phone**: +91 7742985867  
 - 📧 **Email**: [haharshsingh57@gmail.com](mailto:haharshsingh57@gmail.com)  
 - 🌐 **Portfolio**: [terminal-singh-harsh-com.vercel.app](https://terminal-singh-harsh-com.vercel.app/)  
 - 💼 **LinkedIn**: [linkedin.com/in/harsh-singh-7813322488](https://www.linkedin.com/in/harsh-singh-7813322488)  
-- 🏅 **Credly**: [credly.com/users/harsh-singh.7fa52a4d](https://www.credly.com/users/harsh-singh.7fa52a4d)  
-- 📚 **Microsoft Learn Achievements**: [View Badges](https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements)  
-- 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)
+- 🏅 **Credly**: [credly.com/users/harsh-singh.7fa52a4d](https://www.credly.com/users/harsh-singh.7fa52a4d)
+- 🔎 **Google Cloud**: [https://www.skills.google/public_profiles/83c7438a-5df3-4168-9d25-467f85ee994c](https://www.skills.google/public_profiles/83c7438a-5df3-4168-9d25-467f85ee994c)
+- 📚 **Microsoft Learn Achievements**: [View Badges](https://learn.microsoft.com/en-us/users/harshsingh-5675/achievements)
 - 📟 **TryHackMe**: [tryhackme.com/p/haharshsingh57](https://tryhackme.com/p/haharshsingh57)
+- 💻 **GitHub**: [github.com/singhharsh77](https://github.com/singhharsh77)
+
 
 
 
