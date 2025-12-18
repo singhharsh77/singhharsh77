@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=🚀+Hey%2C+I'm+Harsh+Singh!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h3 align="center">Cyber Security Enthusiast | DevSecOps Learner | Cloud Explorer</h3>
+<h3 align="center">DevOps | Cloud | SRE | Secure-Development | Cyber Security | DevSecOps |</h3>
 
 <div align="center">
   <a href="https://github.com/singhharsh77">
