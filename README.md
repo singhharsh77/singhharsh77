@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **4th Year CSE (Cyber Security)** student.
-- 🔒 Passionate about **Cyber Security, Cloud, and DevSecOps, Secure-Development**.   
+- 🔒 Passionate about **DevOps, Cloud, Cyber Security, and Secure-Development**.   
 - 🛡️ Conducted a **Phishing Attack Workshop** in college to spread awareness on threats & defenses. [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_phishingattacks-cybersecurityawareness-handsontraining-activity-7164324770501550083-8oto?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw)
 - 🎯 Goal: Want to build professional Career in **Cyber Security / DevSecOps / Cloud Security**.  
 
