@@ -67,7 +67,7 @@
 
 - **Languages**: Python · Java · Swift  
 - **Cyber Security Tools**: Kali Linux · Wireshark · Metasploit · Burp Suite · Nmap  
-- **Cloud & Infra**: AWS (VPC, Subnets, SG, NACLs, ELB) · Docker · GitHub Actions · Raspberry Pi  
+- **Cloud & Infra**: AWS (EC2, Lambda, ASG, AMI, Loaadbalancer, VPC, Subnets, Mongodb) · Docker · GitHub Actions · Raspberry Pi  
 - **Web/Dev**: React.js · Node.js · FastAPI · HTML/CSS/JS  
 - **Databases**: MySQL · MongoDB · PostgreSQL  
 
