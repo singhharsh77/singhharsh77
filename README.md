@@ -69,11 +69,11 @@
 
 ## ⚙️ Tech Stack  
 
-- **Languages**: Python · Java · Swift  
-- **Cyber Security Tools**: Kali Linux · Wireshark · Metasploit · Burp Suite · Nmap  
-- **Cloud & Infra**: AWS (EC2, Lambda, ASG, AMI, Loaadbalancer, VPC, Subnets, Mongodb) · Docker · GitHub Actions · Raspberry Pi  
-- **Web/Dev**: React.js · Node.js · FastAPI · HTML/CSS/JS  
-- **Databases**: MySQL · MongoDB · PostgreSQL  
+- **Cloud & DevOps: AWS (EC2, S3, Lambda, IAM, SNS, Secrets Manager), Docker, GitHub Actions, CI/CD Pipelines, Blue-Green Deployment
+- **Backend & Full-Stack: Node.js, Express.js, FastAPI, React.js, RESTful APIs, Microservices Architecture
+- **Languages & Databases: Python, Java, SQL, JavaScript, Google Apps Script, MySQL, MongoDB
+- **Developer Tools & AI: Git, Linux (Ubuntu, Kali), Postman, FAISS, RAG Architecture, Streamlit, Scikit-Learn
+- **Core Concepts: Object-Oriented Programming (OOPs), Data Structures, Security First Approach, Distributed Systems
 
 ---
 
