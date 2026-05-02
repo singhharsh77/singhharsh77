@@ -18,8 +18,8 @@
 
 ## 👨‍💻 About Me  
 - ☁️ **AWS Certified Solutions Architect – Associate**  [Verify](https://www.credly.com/badges/40cbf9e6-2e99-4c50-b88d-5ea115ed2d60)
-- 🎓 **4th Year CSE (Cyber Security)** student.
-- 🔒 Passionate about **DevOps, Cloud, SRE, and Secure-Development**.   
+- 🎓 **4th Year BTech. CSE ** student (2026).
+- 🔒 Passionate about **AI-Native Full-Stack Development, Cloud-DevOps, SRE**.   
 - 🛡️ Conducted a **Phishing Attack Workshop** in college to spread awareness on threats & defenses. [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_phishingattacks-cybersecurityawareness-handsontraining-activity-7164324770501550083-8oto?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw)
 - 🎯 Goal: Want to build professional Career in **AI - Cloud/Solution Architects**.  
 
