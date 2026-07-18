@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=🚀+Hey%2C+I'm+Harsh+Singh!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h3 align="center">AWS Certified Solutions Architect – Associate | AI | Cloud | Building Scalable Systems & FullStack Intelligent Workflows</h3>
+<h3 align="center">Wroking as a Jr. DevOps Engineer Gurugram, Haryana | AWS Certified Solutions Architect – Associate | AI | Cloud | Building Scalable Systems & FullStack Intelligent Workflows</h3>
 
 <div align="center">
   <a href="https://github.com/singhharsh77">
