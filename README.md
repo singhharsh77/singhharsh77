@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=🚀+Hey%2C+I'm+Harsh+Singh!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h3 align="center">Wroking as a Jr. DevOps in Gurugram, Haryana | AWS Certified Solutions Architect – Associate | AI | Cloud | Building Scalable Systems & FullStack Intelligent Workflows</h3>
+<h3 align="center">Working as a Jr. DevOps in Gurugram, Haryana | AWS Certified Solutions Architect – Associate | AI | Cloud | Building Scalable Systems & FullStack Intelligent Workflows</h3>
 
 <div align="center">
   <a href="https://github.com/singhharsh77">
@@ -16,12 +16,20 @@
 
 ---
 
-## 👨‍💻 About Me  
-- ☁️ **AWS Certified Solutions Architect – Associate**  [Verify](https://www.credly.com/badges/40cbf9e6-2e99-4c50-b88d-5ea115ed2d60)
-- 🎓 **4th Year BTech. CSE** student (2026).
-- 🔒 Passionate about **AI-Native Full-Stack Development, Cloud-DevOps, SRE**.   
-- 🛡️ Conducted a **Phishing Attack Workshop** in college to spread awareness on threats & defenses. [LinkedIn](https://www.linkedin.com/posts/harsh-singh-781332248_phishingattacks-cybersecurityawareness-handsontraining-activity-7164324770501550083-8oto?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD1F6NEBOMyXbCRVnSsDcetYIRlvBYk7hXw)
-- 🎯 Goal: Want to build professional Career in **AI - Cloud/Solution Architects**.  
+## 👨‍💻 About Me
+
+Hey! I'm Harsh, a DevOps Engineer who enjoys working with cloud infrastructure, automating deployments, and figuring out how to make systems more reliable.
+
+- ☁️ **AWS Certified Solutions Architect – Associate** ([Verify Certificate](https://www.credly.com/badges/40cbf9e6-2e99-4c50-b88d-5ea115ed2d60))
+- 🚀 Working with AWS, Azure, Kubernetes, Docker, Terraform, Helm, GitHub Actions, and Argo CD.
+- 📊 Exploring observability and reliability engineering with Grafana, VictoriaMetrics, and Kubernetes monitoring stacks.
+- 🌱 Contributing to [Kestra](https://github.com/kestra-io/kestra) and learning by working on real-world open-source projects.
+- 🤖 Interested in MLOps and building AI-powered tools that make DevOps workflows smarter and easier to manage.
+- 🛡️ Conducted a [phishing awareness workshop](https://www.linkedin.com/posts/harsh-singh-781332248_phishingattacks-cybersecurityawareness-handsontraining-activity-7164324770501550083-8oto) in college to help students understand cybersecurity threats and defenses.
+
+I enjoy learning by building, troubleshooting things when they break, and finding better ways to automate repetitive work.
+
+**Currently exploring:** Cloud-native infrastructure, Kubernetes observability, SRE, and MLOps.
 
 ---
 
@@ -75,13 +83,20 @@
 
 ---
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, SNS, Secrets Manager), Docker, GitHub Actions, CI/CD Pipelines, Blue-Green Deployment  
-- **Backend & Full-Stack:** Node.js, Express.js, FastAPI, React.js, RESTful APIs, Microservices Architecture  
-- **Languages & Databases:** Python, Java, SQL, JavaScript, Google Apps Script, MySQL, MongoDB  
-- **Developer Tools & AI:** Git, Linux (Ubuntu, Kali), Postman, FAISS, RAG Architecture, Streamlit, Scikit-Learn  
-- **Core Concepts:** Object-Oriented Programming (OOPs), Data Structures, Security-First Approach, Distributed Systems
+- **Cloud Platforms:** AWS (EC2, EKS, ECR, S3, Lambda, IAM, SNS, Secrets Manager), Microsoft Azure (AKS, ACR), GCP
+- **Containers & Orchestration:** Docker, Kubernetes, Amazon EKS, Azure AKS
+- **Infrastructure as Code:** Terraform
+- **CI/CD & GitOps:** GitHub Actions, Argo CD, Helm, CI/CD Pipelines, Blue-Green Deployments
+- **Monitoring & Observability:** Prometheus, Grafana, Loki, Tempo, OpenTelemetry (OTel), Promtail, Node Exporter, VictoriaMetrics, Grafana Kubernetes Monitoring Stack
+- **Programming & Scripting:** Python, java, Bash, JavaScript, SQL
+- **Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs, Microservices Architecture
+- **AI & MLOps:** RAG, FAISS, LLM Integrations, Streamlit, Scikit-learn
+- **Databases:** MySQL, MongoDB, Redis
+- **Security & Networking:** IAM, Cloud Security, Linux Security, DevSecOps, Network Troubleshooting
+- **Developer Tools:** Git, GitHub, Linux (Ubuntu, Kali), Postman
+- **Core Concepts:** Site Reliability Engineering (SRE), Infrastructure Automation, Distributed Systems, Incident Response, Cloud Cost Optimization
 
   
 ---
