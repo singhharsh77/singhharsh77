@@ -39,6 +39,8 @@ I enjoy learning by building, troubleshooting things when they break, and findin
 
 [![2nd PR MERGED](https://img.shields.io/badge/2nd%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/kestra-io/kestra/pull/21223)
 
+[![3rd PR MERGED - MOST INTERESTING](https://img.shields.io/badge/3rd%20PR%20MERGED-%20KESTRA%20MOST%20INTERESTING-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://github.com/kestra-io/kestra/pull/21527)
+
 ---
 
 ## 🏆 Achievements & Certifications  
